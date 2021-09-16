@@ -1,2 +1,2 @@
-name = Oksana
-print ('Hi,' + name)
+name = 'Oksana'
+print ('Hi, dear ' + name)
